@@ -1,0 +1,4 @@
+div::first-letter{
+    content:"break";
+    color: blue;
+}

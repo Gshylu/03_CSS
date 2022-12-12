@@ -1,0 +1,27 @@
+/*[hello]{
+    color:orange;
+    background-color: aqua;
+    font-style: oblique;
+    padding: 5px;
+}
+ [hello~=friends]{
+    color:aliceblue;
+    background-color:blue;
+    font-style: oblique;
+    padding: 5px;
+    font-size: 10px; /*both have similar function*/
+} */
+[hello]{
+    color:orange;
+    background-color: aqua;
+    font-style: oblique;
+    padding: 5px;
+}
+ [hello |=friends]{
+    color:aliceblue;
+    background-color:blue;
+    font-style: oblique;
+    padding: 5px;
+    font-size: 10px;
+} 
+

@@ -1,0 +1,9 @@
+div{
+    position:static;
+    color:blue;
+    background-color: aqua;
+    padding:10px;
+    border:5px dotted red;
+    left: 40%;
+    
+}

@@ -1,0 +1,42 @@
+.abc{ 
+    float:left;
+    color:aliceblue;
+    background-color:blue;
+    font-style: oblique;
+    padding: 50px;
+    border:10px solid orange;
+
+}
+.abc1{ 
+    float:left;
+    color:aliceblue;
+    background-color:blue;
+    font-style: oblique;
+    padding: 50px;
+    border:10px solid orange;
+   
+}.abc2{ 
+    float:right;
+    color:aliceblue;
+    background-color:blue;
+    font-style: oblique;
+    padding: 50px;
+    border:10px solid orange;
+
+}
+.abc4{
+    float:left;
+    clear:left;
+    font-style: oblique;
+    padding: 50px;
+    border:10px solid orange;
+}
+   
+   
+.abc5{
+    float:left;
+    clear:both;
+    font-style: oblique;
+    padding: 50px;
+    border:10px solid  red;
+}

@@ -1,0 +1,25 @@
+div{
+    position:static;
+    color:blue;
+    background-color: aqua;
+    padding:10px;
+    border:5px dotted red;
+    
+}
+.relative{
+    position:relative;
+    color:blue;
+    background-color: aqua;
+    padding:10px;
+    border:5px dotted red;
+    
+}
+.fixed{
+    position:fixed;
+    color:aliceblue;
+    background-color:black;
+    padding:10px;
+    border:5px solid orangered;
+    right: 10px;
+    bottom:50px;
+}

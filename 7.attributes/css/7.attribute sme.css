@@ -1,0 +1,13 @@
+[hello]{
+    color:orange;
+    background-color: aqua;
+    font-style: oblique;
+    padding: 5px;
+}
+ div,[hello *= f]{
+    color:aliceblue;
+    background-color:blue;
+    font-style: oblique;
+    padding: 5px;
+    font-size: 10px;
+}

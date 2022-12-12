@@ -1,0 +1,4 @@
+div::after{
+    content:"break";
+    color: blue;
+}
